@@ -1,0 +1,223 @@
+# Market research notes (raw, unsorted)
+
+Collected over several months. Mostly links and half-thoughts; not decisions.
+- Note 1: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 2: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 3: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 4: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 5: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 6: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 7: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 8: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 9: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 10: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 11: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 12: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 13: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 14: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 15: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 16: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 17: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 18: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 19: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 20: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 21: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 22: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 23: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 24: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 25: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 26: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 27: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 28: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 29: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 30: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 31: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 32: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 33: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 34: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 35: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 36: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 37: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 38: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 39: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 40: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 41: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 42: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 43: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 44: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 45: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 46: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 47: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 48: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 49: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 50: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 51: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 52: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 53: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 54: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 55: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 56: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 57: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 58: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 59: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 60: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 61: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 62: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 63: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 64: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 65: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 66: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 67: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 68: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 69: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 70: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 71: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 72: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 73: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 74: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 75: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 76: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 77: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 78: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 79: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 80: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 81: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 82: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 83: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 84: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 85: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 86: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 87: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 88: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 89: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 90: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 91: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 92: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 93: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 94: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 95: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 96: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 97: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 98: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 99: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 100: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 101: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 102: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 103: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 104: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 105: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 106: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 107: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 108: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 109: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 110: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 111: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 112: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 113: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 114: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 115: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 116: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 117: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 118: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 119: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 120: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 121: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 122: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 123: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 124: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 125: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 126: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 127: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 128: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 129: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 130: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 131: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 132: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 133: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 134: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 135: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 136: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 137: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 138: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 139: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 140: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 141: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 142: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 143: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 144: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 145: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 146: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 147: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 148: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 149: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 150: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 151: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 152: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 153: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 154: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 155: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 156: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 157: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 158: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 159: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 160: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 161: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 162: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 163: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 164: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 165: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 166: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 167: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 168: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 169: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 170: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 171: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 172: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 173: course completion is often below 15 percent industry-wide; worth checking later, unverified.
+- Note 174: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 175: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 176: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 177: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 178: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 179: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 180: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 181: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 182: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 183: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 184: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 185: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 186: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 187: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 188: newsletter referral programs vary a lot in results; worth checking later, unverified.
+- Note 189: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 190: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 191: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 192: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 193: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 194: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 195: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 196: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 197: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 198: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 199: customers like short videos under 8 minutes; worth checking later, unverified.
+- Note 200: LinkedIn carousels get saved more than text posts; worth checking later, unverified.
+- Note 201: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 202: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 203: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 204: financial planning firms are a possible niche for newsletters; worth checking later, unverified.
+- Note 205: pricing pages with three tiers convert better in some tests; worth checking later, unverified.
+- Note 206: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 207: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 208: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 209: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 210: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 211: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 212: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 213: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 214: some studios bundle a course with coaching calls; worth checking later, unverified.
+- Note 215: webinars still work for higher-priced courses; worth checking later, unverified.
+- Note 216: template buyers ask for Notion more than Sheets; worth checking later, unverified.
+- Note 217: membership churn is usually highest in month two; worth checking later, unverified.
+- Note 218: partnerships with podcasts can bring warm subscribers; worth checking later, unverified.
+- Note 219: email open rates in 2026 seem lower for promotional subjects; worth checking later, unverified.
+- Note 220: template buyers ask for Notion more than Sheets; worth checking later, unverified.

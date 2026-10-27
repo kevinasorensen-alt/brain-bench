@@ -1,0 +1,22 @@
+[
+  { "id": "q01", "q": "How much does the Email Basics course cost?", "all": ["\\$?149"], "source": "pricing.md" },
+  { "id": "q02", "q": "What is the monthly price of the Growth Club membership for new members?", "all": ["\\$?19"], "none": ["\\$15\\b"], "source": "pricing.md" },
+  { "id": "q03", "q": "What is the largest discount allowed on a discount code?", "all": ["20\\s*%|20 percent"], "source": "pricing.md" },
+  { "id": "q04", "q": "Which discount is allowed to go above the normal discount cap?", "all": ["student"], "source": "pricing.md" },
+  { "id": "q05", "q": "How many days does a customer have to get a full refund on a course?", "all": ["14"], "source": "refund-policy.md" },
+  { "id": "q06", "q": "Up to what refund amount can Sam approve on his own?", "all": ["\\$?100"], "source": "refund-policy.md" },
+  { "id": "q07", "q": "On which day and at what time does the weekly newsletter go out?", "all": ["thursday", "9"], "source": "newsletter-sop.md" },
+  { "id": "q08", "q": "Who proofreads the newsletter?", "all": ["sam"], "source": "newsletter-sop.md" },
+  { "id": "q09", "q": "Which tool handles payments and checkout?", "all": ["lemon\\s*squeezy"], "source": "tools.md" },
+  { "id": "q10", "q": "Why did the studio move checkout away from Gumroad?", "all": ["tax"], "source": "decisions-log.md" },
+  { "id": "q11", "q": "At what monthly revenue will the studio reconsider paid ads?", "all": ["10,?000|10k"], "source": "decisions-log.md" },
+  { "id": "q12", "q": "Why was the podcast sponsorship declined?", "all": ["crypto"], "source": "decisions-log.md" },
+  { "id": "q13", "q": "What is the early-bird price for the Content Calendar 2027 launch?", "all": ["\\$?19"], "source": "launch-q4.md" },
+  { "id": "q14", "q": "How many people are on the Q4 launch waitlist?", "all": ["412"], "source": "launch-q4.md" },
+  { "id": "q15", "q": "What happens on day 14 of course onboarding?", "all": ["growth club"], "source": "onboarding-checklist.md" },
+  { "id": "q16", "q": "Which three words does the brand voice never use?", "all": ["hack", "guru", "crush"], "source": "brand-voice.md" },
+  { "id": "q17", "q": "Which day of the week has no customer calls?", "all": ["friday"], "source": "about.md" },
+  { "id": "q18", "q": "What is the studio's annual revenue?", "unanswerable": true, "source": "not in the notes" },
+  { "id": "q19", "q": "Who is the studio's accountant?", "unanswerable": true, "source": "not in the notes" },
+  { "id": "q20", "q": "What is the conversion rate of the course sales page?", "unanswerable": true, "source": "not in the notes" }
+]
